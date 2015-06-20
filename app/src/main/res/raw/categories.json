@@ -1,103 +1,104 @@
 [
   {
-    "name": "Food & Drink",
+    "name": "Le club",
     "id": "food",
     "theme": "green",
     "quizzes": [
       {
         "type": "four-quarter",
-        "question": "Name the Italian, semi-soft, rich cheese with blue veins through it.",
+        "question": "Quelle est la date de création du Stade Lavallois ?",
         "options": [
-          "Ricotta",
-          "Blue Cheese",
-          "Gorgonzola",
-          "Parmesan"
+          "1892",
+          "1897",
+          "1902",
+          "1907"
         ],
         "answer": [2]
       },
       {
         "type": "true-false",
-        "question": "Coffee beans contain more caffeine than tea leaves.",
-        "answer": false
+        "question": "Laval a gagné deux coupes de la Ligue.",
+        "answer": true
       },
       {
         "type": "multi-select",
-        "question": "What are the three ingredients in mead (spices excluded)?",
+        "question": "Qui a été président du Stade Lavallois ?",
         "options": [
-          "Sugar",
-          "Honey",
-          "Cinnamon",
-          "Water",
-          "Brown Sugar",
-          "Yeast",
-          "Salt"
+          "Bruno Lucas",
+          "Emmanuel Besnier",
+          "Alain Desgages",
+          "Michel Le Milinaire",
+          "Georges Grimod",
+          "Jean Barré",
+          "Henri Bisson"
         ],
         "answer": [
-          1,
-          3,
-          5
+          0,
+          2,
+          4,
+          6
         ]
       },
       {
         "type": "four-quarter",
-        "question": "What crop does the Colorado Beetle attack?",
+        "question": "Qui a entrainé le SL de 1997 à 2001 ?",
         "options": [
-          "Corn",
-          "Garlic",
-          "Potato",
-          "Wheat"
+          "Victor Zvunka",
+          "Hervé Gautier",
+          "Denis Troch",
+          "Denis Zanko"
         ],
-        "answer": [2]
+        "answer": [1]
       },
       {
         "type": "single-select-item",
-        "question": "What vegetable did Mark Twain describe as “cabbage with a college education”?",
+        "question": "Sur quel terrain le stade jouait-il à son origine",
         "options": [
-          "Spinach",
-          "Broccoli",
-          "Cauliflower",
-          "Kale"
+          "Stade Francis Le Basser",
+          "Stade Vélodrome",
+          "Le champ de la croix",
+          "Stade Jean Yvinec"
         ],
         "answer": [2]
       },
       {
         "type": "fill-blank",
-        "question": "What name is given to a sugar syrup which is gently heated until it browns?",
-        "answer": "Caramel"
+        "question": "Qui est le sponsor maillot principal actuel ?",
+        "answer": "Lactel"
       },
       {
         "type": "single-select",
-        "question": "In Which city was chop suey invented?",
+        "question": "Quel joueur est le recordman de matchs joués avec le Stade Lavallois ?",
         "options": [
-          "Hong Kong",
-          "Taipei",
-          "New York",
-          "San Francisco"
+          "Guilherme Mauricio",
+          "Raymond Kéruzoré",
+          "Bernard Maligorne",
+          "Mickael Buzaré"
         ],
         "answer": [3]
       },
       {
         "type": "picker",
-        "question": "One of the fattiest fishes is salmon. 4 ounces contains how many grams of fat?",
-        "min": 1,
-        "max": 10,
-        "answer": 9
+        "question": "Combien de fois le Stade Lavallois a-t-il gagné la coupe Gambardella ?",
+        "min": 0,
+        "max": 5,
+        "answer": 1
       },
       {
         "type": "fill-blank",
-        "question": "In which American State did chili con carne originate?",
-        "answer": "Texas"
+        "question": "Où se situe le siège du club ?",
+        "answer": "Les Gandonnieres"
       },
       {
         "type": "four-quarter",
-        "question": "What is the correct name for a cluster or bunch of bananas?",
+        "question": "Quel joueur a le record de buts marqués au Stade Lavallois ?",
         "options": [
-          "Foot",
-          "Hand",
-          "Flock",
-          "Pod"
+          "Georges Tripp",
+          "Uwe Krause",
+          "Erwin Kostedde",
+          "Guilherme Mauricio"
         ],
-        "answer": [1]
+        "answer": [3]
       }
     ],
     "scores": [
