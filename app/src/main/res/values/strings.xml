@@ -15,12 +15,12 @@
   ~ limitations under the License.
   -->
 <resources>
-    <string name="app_name">Tout sur le Stade</string>
+    <string name="app_name">Tout sur le stade</string>
     <string name="last_initial">Dernière Initiale</string>
     <string name="first_name">Prénom</string>
     <string name="sign_in">Se connecter</string>
     <string name="choose_avatar">Choisir un avatar</string>
-    <string name="an_avatar">Un avatar</string>
+    <string name="an_avatar">Un Avatar</string>
     <string name="player_display_name">%1$s %2$s</string>
     <string name="quiz_of_quizzes">%1$s / %2$s</string>
     <string name="btn_true">Vrai</string>
